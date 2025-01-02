@@ -6,7 +6,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="#F57C00"
+
     tools:context=".MainActivity">
     
     <androidx.drawerlayout.widget.DrawerLayout
@@ -38,7 +38,8 @@
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
             android:id="@+id/toolbar"
-            android:background="#D1CCE0"
+
+            android:background="#DEDEE7"
             />
 
 
