@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <group>
+
+        <item
+            android:title="FastFragment"
+            android:id="@+id/blankFragment"/>
+
+
+        <item
+            android:title="ScoundFragment"
+            android:id="@+id/blankFragment2"/>
+
+
+        <item
+            android:title="TheardFragment"
+            android:id="@+id/blankFragment3"/>
+
+
+
+
+
+
+
+
+    </group>
+
+
+
+
+
+
+</menu>
